@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    background: #0d1b2a;
+    color: #ffffff;
+    text-align: center;
+}
+header {
+    background: #1b263b;
+    padding: 2em 0;
+}
+main {
+    padding: 2em;
+}
+footer {
+    background: #1b263b;
+    padding: 1em 0;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+a {
+    color: #6ab0f3;
+    text-decoration: none;
+}
